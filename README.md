@@ -2,8 +2,8 @@
 Presented by Laura Bishop (TLCLauraB)<br/><br/>
 Table of Contents:<br/>
 [Folder: Credit_Risk](https://github.com/TLCLauraB/credit-risk-classification/tree/main/Credit_Risk)<br/>
-    * [File: credit_risk_classification.ipynb](https://github.com/TLCLauraB/credit-risk-classification/blob/main/Credit_Risk/credit_risk_classification.ipynb)<br/>
-    * [File: lending_data.csv](https://github.com/TLCLauraB/credit-risk-classification/blob/main/Credit_Risk/lending_data.csv)
+    - [File: credit_risk_classification.ipynb](https://github.com/TLCLauraB/credit-risk-classification/blob/main/Credit_Risk/credit_risk_classification.ipynb)<br/>
+    - [File: lending_data.csv](https://github.com/TLCLauraB/credit-risk-classification/blob/main/Credit_Risk/lending_data.csv)
 <br/>
 <br/>
 <br/>
