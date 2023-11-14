@@ -1,4 +1,4 @@
-<img src="https://github.com/TLCLauraB/credit-risk-classification/blob/main/img/machine-learning-icon-linear-vector-pink-sm.jpg" alt="Vector conceptual art of a brain with computer wires done in a pink and purple motif." width=17% align=left>Module 20 Challenge: Credit Risk Classification Using Supervised Machine Learning <br/>
+<img src="https://github.com/TLCLauraB/credit-risk-classification/blob/main/img/machine-learning-icon-linear-vector-pink-sm.jpg" alt="Vector conceptual art of a brain with computer wires done in a pink and purple motif." width=25% align=left>Module 20 Challenge: Credit Risk Classification Using Supervised Machine Learning <br/>
 Presented by Laura Bishop (TLCLauraB)<br/><br/>
 Table of Contents:<br/>
 [Folder: Credit_Risk](https://github.com/TLCLauraB/credit-risk-classification/tree/main/Credit_Risk)<br/>
