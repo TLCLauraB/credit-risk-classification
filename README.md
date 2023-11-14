@@ -8,6 +8,7 @@ Table of Contents:<br/>
 <br/>
 <br/>
 <br/>
+<br/>
 ## Introduction: 
 In this challenge, I used various techniques learned in Module 20 to train and evaluate a model based on loan risk. The course provided the dataset and was based on historical lending activity from a peer-to-peer lending service company. I used this to build a model that could identify the creditworthiness of its borrowers. 
 
