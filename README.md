@@ -59,11 +59,11 @@ Classification Report for the Model:<br/>
 
      - **Model Scores:**
        * **Precision:**
-         - 'Group 1': 1.00 (indicating perfect precision).
-         - 'Group 2': 0.87 (indicating high precision).
+         - Group 1: 1.00 (indicating perfect precision).
+         - Group 2: 0.87 (indicating high precision).
        * **Recall:**
-         - 'Group 1': 1.00 (indicating perfect recall).
-         - 'Group 2': 0.89 (indicating high recall).
+         - Group 1: 1.00 (indicating perfect recall).
+         - Group 2: 0.89 (indicating high recall).
 
 ## Recommendation:
 The importance of predicting on a binary scale (1s and 0s) can vary depending on the specific goals and requirements of the problem at hand. The context of the problem and the associated costs or consequences of different types of errors play a crucial role in determining which class is more critical to predict accurately.
