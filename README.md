@@ -30,8 +30,8 @@ Classification Report for the Model:<br/>
 
 - **Basic Information about Variables:**
   - Two classes were present: 'Group 1' and 'Group 2.'
-  - 'Group 1' had a significant majority, indicating potential class imbalance.
-  - 'Group 2' was reserved as the data test set.
+  - Group 1 had a significant majority, indicating potential class imbalance.
+  - Group 2 was reserved as the data test set.
 
 - **Stages of the Machine Learning Process:**
   1. **Data Preprocessing:**
